@@ -1,0 +1,14 @@
+{
+  "name": "temperature-converter",
+  "version": "1.0.0",
+  "description": "This package calculates the temperature of any given integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Orozco",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
